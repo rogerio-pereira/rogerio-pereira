@@ -23,7 +23,11 @@
 ##
 <h3 align='left'>About me</h3>
 <p>
-  Loren ipsun dolor let amet  
+  I am a software developer since 2011, in 2020 I became a Certified Laravel Developer. Right now I live in Tampa - FL - USA, with my wife, two cats and one dog.
+</p>
+
+<p>
+  Today I work fulltime on a Cannabis Laboratory as Sr Software Developer using Laravel and VueJS, and part time teaching Laravel. 
 </p>
   
 ##
