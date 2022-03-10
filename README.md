@@ -8,7 +8,7 @@
   <p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogerio-pereira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
     <br/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerio-pereira&layout=compact&langs_count=7&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerio-pereira&layout=compact&langs_count=8&theme=tokyonight&hide=java,ruby" />
     &nbsp;&nbsp;
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rogerio-pereira&layout=compact&theme=tokyonight" alt="rogerio-pereira" /> 
   </p>
