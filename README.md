@@ -15,7 +15,7 @@
     
   <p> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=rogerio-pereira&theme=tokyonight&margin-w=15&margin-h=15" alt="rogerio-pereira" />
+      <img src="https://github-trophies.vercel.app/?username=rogerio-pereira&theme=tokyonight&margin-w=15&margin-h=15" alt="rogerio-pereira" />
     </a>
   </p>
 </div>  
