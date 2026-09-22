@@ -1,37 +1,49 @@
-### Hello World!
-# I'm Rogerio Pereira
-### Senior Software Engineer — Laravel, Vue, AWS
+<h1 align="center">Rogerio Pereira</h1>
+<p align="center"><b>Senior Fullstack Engineer</b> — Backend-heavy systems, AI integration, automation, and technical consulting.</p>
 
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=rogerio-pereira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerio-pereira&layout=compact&langs_count=8&theme=tokyonight)
-![rogerio-pereira](https://github-readme-streak-stats.herokuapp.com/?user=rogerio-pereira&layout=compact&theme=tokyonight)
+<p align="center">
+  📍 Plant City, Florida, US &nbsp;|&nbsp;
+  ✉️ <a href="mailto:rogeriopereira.dev@gmail.com">rogeriopereira.dev@gmail.com</a>
+</p>
 
-[![rogerio-pereira](https://github-trophies.vercel.app/?username=rogerio-pereira&theme=tokyonight&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-### About me
+### What I take on
 
-Software developer since 2011, Certified Laravel Developer since 2020.
-15+ years building, scaling, and modernizing web applications, with a
-strong focus on Laravel, Vue, and cloud-native architecture on AWS.
+I work on **project-based engagements** — clear scope, defined start and end, no ongoing retainer. If your project has a beginning, a middle, and an end, that's exactly what I'm looking for.
 
-Bicultural perspective: born in the US, raised in Brazil for 27 years,
-now based in the US again. Native Portuguese speaker, fluent in English.
+I don't run a dev shop and I don't compete on hourly rate. I take on a small number of projects where 15+ years of production experience actually moves the needle: systems that need to scale, break down under load, need AI woven in properly (not bolted on), or need someone who's owned an architecture decision and lived with the consequences.
 
-**Currently open to remote, part-time, or freelance/contract engagements**
-where I can contribute at a senior level alongside an existing team.
+Typical shapes of work:
+- Building a fullstack product or feature from spec to production
+- Integrating AI into an existing system in a way that's actually reliable
+- Automating a manual process that's quietly costing you time or money
+- A focused technical review — architecture, scaling risk, security gaps — with a clear plan, not a vague slide deck
 
-### Connect with me:
-[rogeriopereira.dev](https://rogeriopereira.dev)
+### Proof, not adjectives
 
-### Languages and Tools:
-[![php](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)](https://www.php.net)
-[![laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg)](https://laravel.com/)
-[![mysql](https://user-images.githubusercontent.com/13219168/151630417-9b90aa23-9062-41f0-ad77-01e1bd3a80f7.png)](https://www.mysql.com/)
-[![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)
-[![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)
-[![bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)](https://getbootstrap.com)
-[![vuejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg)](https://vuejs.org/)
-[![linux](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png)](https://www.linux.org/)
-[![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)](https://www.docker.com/)
-[![aws](https://www.svgrepo.com/show/303679/aws-logo-logo.svg)](https://aws.amazon.com)
-[![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
+- Redesigned a mission-critical email delivery architecture for a US federal contract, **cutting operational costs by 92%** while improving reliability and security
+- Built and maintained systems processing **220k–300k+ transactional messages per day**
+- Took legacy applications through full modernization into Laravel + Vue + AWS without disrupting production
+- **Most of my recent client work is under NDA** — this is also why my public commit history has gone quiet since 2022: my day-to-day work runs on an internal Git, not GitHub. Happy to walk through the technical detail directly instead
+
+### Stack
+
+`PHP` `Laravel` `Vue.js` `REST APIs` `AWS` `Docker` `MySQL` `PostgreSQL` `PHPUnit` `Pest` `Vitest` `Playwright` `CI/CD` `AI-assisted development` `Spec driven development`
+
+### How engagements work
+
+- **Fixed scope, fixed price** when the deliverable is well-defined
+- **Time-based** for shorter, exploratory, or advisory work
+- No long-term maintenance or support contracts — I build it right and hand it off clean
+- I keep a full-time role, so I'm selective about what I take on — that's also why what I do take on gets real attention
+
+### Get in touch
+
+Email me with what you're building, what "done" looks like, and your rough timeline: **rogeriopereira.dev@gmail.com**
+
+
+### How to get ignored
+Vague "need a developer" messages get skipped — projects with a clear problem get a real reply.
+
+Pitches asking me to act as the "US face" for an overseas operation. (Those get reported as spam and deleted automatically).
